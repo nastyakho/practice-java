@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class FurnitureShop {
-    int wallet = 30000;
+    int wallet = 10000000;
     int num = 1;
     String[] colors = {"black", "white", "green", "red", "blue"};
     ArrayList<Furniture> catalog = new ArrayList<>();
