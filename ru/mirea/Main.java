@@ -1,6 +1,6 @@
 package ru.mirea;
 
-import ru.mirea.Prakt8.exercise1.FurnitureShop;
+import ru.mirea.exercisee8.exercise1.FurnitureShop;
 
 public class Main {
 

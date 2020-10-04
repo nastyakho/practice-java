@@ -1,4 +1,4 @@
-package ru.mirea.Prakt5;
+package ru.mirea.exercise5;
 
 public class Point {
 
