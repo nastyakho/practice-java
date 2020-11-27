@@ -14,7 +14,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox maxHeight="260.0" maxWidth="163.0" minHeight="260.0" minWidth="150.0" prefHeight="260.0" prefWidth="163.0" xmlns="http://javafx.com/javafx/8.0.181" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ru.mirea.exercise11and12.ex2.CalcController">
+<VBox maxHeight="260.0" maxWidth="163.0" minHeight="260.0" minWidth="150.0" prefHeight="260.0" prefWidth="163.0" xmlns="http://javafx.com/javafx/8.0.181" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ru.mirea.Prakt1112.exercise2.CalcController">
   <children>
     <MenuBar VBox.vgrow="NEVER">
       <menus>

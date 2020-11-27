@@ -1,10 +1,10 @@
 package ru.mirea;
 
-import ru.mirea.exercise11and12.ex1.Hello;
+import ru.mirea.exercise25and26.Parser;
 
 public class Main {
 
     public static void main(String[] args) {
-        Hello hello = new Hello();
+        new Parser();
     }
 }

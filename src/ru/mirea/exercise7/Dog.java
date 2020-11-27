@@ -1,4 +1,4 @@
-package ru.mirea.exercise7;
+package ru.mirea.Prakt7;
 
 public abstract class Dog {
     int age;

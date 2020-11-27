@@ -1,4 +1,4 @@
-package ru.mirea.exercise5;
+package ru.mirea.Prakt5;
 
 public class CircleMovable extends Circle implements Movable {
     public CircleMovable(Point center, double radius)

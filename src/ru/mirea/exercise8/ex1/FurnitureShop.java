@@ -1,5 +1,7 @@
 package ru.mirea.exercise8.ex1;
 
+import ru.mirea.Prakt7.Dish;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
