@@ -1,4 +1,4 @@
-package ru.mirea.Prakt7;
+package ru.mirea.exercise7;
 
 public class Plate extends Dish{
 

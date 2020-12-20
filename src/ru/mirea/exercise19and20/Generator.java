@@ -1,5 +1,4 @@
 package ru.mirea.exercise19and20;
-
 import java.util.*;
 
 public class Generator {

@@ -23,6 +23,7 @@ public class Parser {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println(document.toString());
         System.out.println("HTML-код страницы получен");
         Elements imageElements = document.select("img");
         System.out.println("Абсолютные ссылки на изображения:");

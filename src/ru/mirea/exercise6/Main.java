@@ -1,4 +1,4 @@
-package ru.mirea.Prakt6;
+package ru.mirea.exercise6;
 
 public class Main {
 
